@@ -1,5 +1,7 @@
 # Demo
 
+This is a repro for https://github.com/golang/go/issues/59980
+
 ```
 $ go version
 go version go1.20.4 darwin/arm64
